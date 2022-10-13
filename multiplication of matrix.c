@@ -2,7 +2,7 @@
 void main()
 {
     int a[3][3],b[3][3],c[3][3];
-    int i,j;
+    int i,j,k;
     printf("Enter the elements in matrix A");
     for(i=0;i<3;i++){
         for(j=0;j<3;j++){
